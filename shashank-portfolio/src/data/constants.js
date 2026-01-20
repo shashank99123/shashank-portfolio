@@ -225,9 +225,7 @@ export const projects = [
     id: 11,
     title: "GateLessParking",
     date: "Jan 2025 - Mar 2025",
-    description: "Developed Find My Parking, a smart system for advance slot booking at malls and theaters with real-time 
-availability and secure payments.Integrated number plate recognition using Python and OpenCV, with a Next.js frontend, MongoDB backend, and 
-ML-based vehicle detection",
+    description: "Developed Find My Parking, a smart system for advance slot booking at malls and theaters with real-time availability and secure payments.Integrated number plate recognition using Python and OpenCV, with a Next.js frontend, MongoDB backend, and ML-based vehicle detection",
     tags: [],
     category: "web app",
     github: "https://github.com/shashank99123/parking",
