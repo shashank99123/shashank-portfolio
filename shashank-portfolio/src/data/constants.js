@@ -194,7 +194,7 @@ export const experiences = [
     img: "",
     role: "Presentation Designer",
     company: "SmartQ",
-    date: "Aug 2025 - Fed 2026",
+    date: "Aug 2025 - Feb 2026",
     desc: "Got experience in designing of creatives, layouts and ui ux research",
     skills: ["Material UI","Adobe Illustrator", "Figma","UI UX Research"],
   },
@@ -204,7 +204,7 @@ export const education = [
   {
     id: 0,
     img: "https://res.cloudinary.com/dz3enozkl/image/upload/v1737981425/atria_institute_of_technology_logo_uhdes1.jpg",
-    date: "Dec 2023 - Aug 2025",
+    date: "Dec 2023 - Nov 2025",
     grade: "8.21 CGPA",
     desc: "I am currently pursuing a Master of Computer Applications  atAtria Institute Of Technology, Benguluru. I have completed 2 semesters and have a CGPA of 8.21.",
     degree: "Master Of Computer Applications",
