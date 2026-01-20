@@ -189,6 +189,15 @@ export const experiences = [
     desc: "winner of VTSoC-website development/enhancement hackathon organized by IEEE VTSoC banglore -2024",
     skills: ["Material UI", "HTML", "CSS", "JavaScript", "Figma", "Github"],
   },
+  {
+    id: 4,
+    img: "",
+    role: "Presentation Designer",
+    company: "SmartQ",
+    date: "Aug 2025 - Fed 2026",
+    desc: "Got experience in designing of creatives, layouts and ui ux research",
+    skills: ["Material UI","Adobe Illustrator", "Figma","UI UX Research"],
+  },
 ];
 
 export const education = [
@@ -216,10 +225,12 @@ export const projects = [
     id: 11,
     title: "GateLessParking",
     date: "Jan 2025 - Mar 2025",
-    description: "Projects will Update shorlty",
+    description: "Developed Find My Parking, a smart system for advance slot booking at malls and theaters with real-time 
+availability and secure payments.Integrated number plate recognition using Python and OpenCV, with a Next.js frontend, MongoDB backend, and 
+ML-based vehicle detection",
     tags: [],
     category: "web app",
-    github: "",
-    webapp: "",
+    github: "https://github.com/shashank99123/parking",
+    webapp: "https://parking-omega-five.vercel.app/",
   },
 ];
