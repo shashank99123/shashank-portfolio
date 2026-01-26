@@ -1,13 +1,15 @@
 export const Bio = {
   name: "D SHASHANK",
-  roles: ["Frontend Developer", "Data Analyst", "UI/UX Designer"],
+  roles: ["Frontend Developer", "Data Analyst", "UI/UX Designer", "Product Designer"],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/shashank-virat",
+  github: "https://github.com/shashank99123",
   resume:
-    "https://drive.google.com/file/d/1TladmJpcdboeghmL2g-_7oOdw0xK1WNS/view?usp=sharing",
+    "https://drive.google.com/file/d/1qSO5w1Bqp65w6QriDNkiit5-TSGN6d6e/view?usp=drivesdk",
+    behance:
+  https:"//www.behance.net/shashankkumar72",
   linkedin: "https://www.linkedin.com/in/d-shashank-0141b9264/",
-behance: "https://www.behance.net/shashankkumar72",
+
   insta: "https://www.instagram.com/shashank__virat?igsh=d3ZydWsyNXoyZnB4",
 };
 
@@ -139,6 +141,21 @@ export const skills = [
         image:
           "https://s3-alpha.figma.com/hub/file/1481185752/fa4cd070-6a79-4e1b-b079-8b9b76408595-cover.png",
       },
+      {
+        name: "Canva",
+        image:
+          "",
+      },
+      {
+        name: "Framer",
+        image:
+          "",
+      },
+      {
+        name: "Sketch",
+        image:
+          "",
+      },
     ],
   },
 ];
@@ -191,7 +208,7 @@ export const experiences = [
   },
   {
     id: 4,
-    img: "",
+    img: "https://res.cloudinary.com/dlikwjohh/image/upload/v1768908754/images_6_corlgj.jpg",
     role: "Presentation Designer",
     company: "SmartQ",
     date: "Aug 2025 - Feb 2026",
@@ -206,7 +223,7 @@ export const education = [
     img: "https://res.cloudinary.com/dz3enozkl/image/upload/v1737981425/atria_institute_of_technology_logo_uhdes1.jpg",
     date: "Dec 2023 - Nov 2025",
     grade: "8.21 CGPA",
-    desc: "I am currently pursuing a Master of Computer Applications  atAtria Institute Of Technology, Benguluru. I have completed 2 semesters and have a CGPA of 8.21.",
+    desc: "I completed my Master of Computer Applications  at Atria Institute Of Technology, Benguluru.",
     degree: "Master Of Computer Applications",
   },
   {
@@ -223,7 +240,7 @@ export const education = [
 export const projects = [
   {
     id: 11,
-    title: "GateLessParking",
+    title: "Gateless Parking",
     date: "Jan 2025 - Mar 2025",
     description: "Developed Find My Parking, a smart system for advance slot booking at malls and theaters with real-time availability and secure payments.Integrated number plate recognition using Python and OpenCV, with a Next.js frontend, MongoDB backend, and ML-based vehicle detection",
     tags: [],
