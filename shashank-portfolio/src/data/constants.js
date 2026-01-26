@@ -7,7 +7,7 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/1TladmJpcdboeghmL2g-_7oOdw0xK1WNS/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/d-shashank-0141b9264/",
-
+behance: "https://www.behance.net/shashankkumar72",
   insta: "https://www.instagram.com/shashank__virat?igsh=d3ZydWsyNXoyZnB4",
 };
 
